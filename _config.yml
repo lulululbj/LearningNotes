@@ -9,7 +9,7 @@
 title: HyG
 brief-intro: Front-end Dev Engineer
 baseurl: "http://sunluyao.com/learning-note" # the subpath of your site, e.g. /blog
-url: "http://sunluyao.com/learning-note" # the base hostname & protocol for your site
+url: "" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
