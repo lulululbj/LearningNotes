@@ -49,8 +49,8 @@ kramdown:
 # port: 1234
 
 # url
-category_dir: category/
-tag_dir: tag/
+category_dir: learning-note/category/
+tag_dir: learning-note/tag/
 
 # excerpt
 excerpt_separator: "\n\n\n\n"
