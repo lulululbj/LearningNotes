@@ -8,6 +8,8 @@ author: luyao
 * content
 {:toc}
 
+C 语言中的一些基本数据类型整理。
+
 
 
 
