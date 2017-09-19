@@ -5,4 +5,7 @@ date:       2017-09-04 21:35:00
 categories: C Primer Plus
 ---
 
+* content
+{:toc}
+
 * [C 基本数据类型]()
