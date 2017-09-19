@@ -2,7 +2,7 @@
 layout:     post
 title:      "C 基本数据类型"
 date:       2017-09-04 21:41:00
-categories: C Primer Plus 
+categories: 'C Primer Plus' 
 ---
 
 * 最小的存储单元是位（bit），可以存储0或1，位是计算机内存的基本构件块。
