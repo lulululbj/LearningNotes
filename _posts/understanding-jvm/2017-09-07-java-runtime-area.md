@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "Java 运行时数据区域"
-categories: 深入理解 Java 虚拟机
+categories: 深入理解Java虚拟机
 author: luyao
 ---
 

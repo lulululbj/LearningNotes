@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      "背包，队列和栈"
-categories:   算法 第四版
+categories:   算法(第四版)
 author:     luyao
 ---
 
