@@ -5,6 +5,9 @@ categories: 算法(第四版)
 author:     luyao
 ---
 
+* content
+{:toc}
+
 不多说，算法和数据结构入门好书。
 
 

@@ -5,6 +5,9 @@ categories:   算法(第四版)
 author:     luyao
 ---
 
+* content
+{:toc}
+
 最基本的几种数据结构。
 
 
