@@ -13,3 +13,8 @@ excerpt: ""
 ## Question
 
 ## Solution
+
+
+> Time complextiy: O()
+>
+> Space complexity : O()
