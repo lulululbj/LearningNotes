@@ -14,3 +14,5 @@ author:     luyao
 
 
 * [背包，队列和栈](2017-09-02-bag-queue-stack.md)
+
+* [排序](2017-10-10-sort.md)
