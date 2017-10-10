@@ -17,9 +17,12 @@ Given a sorted array, remove the duplicates in place such that each element appe
 Do not allocate extra space for another array, you must do this in place with constant memory.
 
 For example,
+
+```
 Given input array nums = [1,1,2],
 
 Your function should return length = 2, with the first two elements of nums being 1 and 2 respectively. It doesn't matter what you leave beyond the new length.
+```
 
 返回已排序数组中不重复的元素个数，要求：
 * 不能再创建数组，只能已有空间
@@ -43,5 +46,5 @@ public static int solution(int[] nums) {
 ```
 
 > Time complextiy: O(n)，一次遍历即可
-
+>
 > Space complexity : O(1)
