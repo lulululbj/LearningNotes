@@ -1,17 +1,5 @@
----
-layout:     post
-title:      "C 基本数据类型"
-categories: C-Primer-Plus
-author: luyao
----
-
-* content
-{:toc}
 
 C 语言中的一些基本数据类型整理。
-
-
-
 
 # 基本数据类型
 

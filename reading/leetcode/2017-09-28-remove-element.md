@@ -1,14 +1,3 @@
----
-layout: post
-title: "LeetCode - Remove Element"
-author: luyao
-categories: LeetCode
-tags: Array Easy
-excerpt: ""
----
-
-* content
-{:toc}
 
 ## Question
 

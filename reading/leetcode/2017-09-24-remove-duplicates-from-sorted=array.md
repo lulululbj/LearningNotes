@@ -1,14 +1,3 @@
----
-layout: post
-title: "LeetCode - Remove Duplicates from Sorted Array"
-author: luyao
-categories: LeetCode
-tags: Array Easy
-excerpt: ""
----
-
-* content
-{:toc}
 
 ## Question
 

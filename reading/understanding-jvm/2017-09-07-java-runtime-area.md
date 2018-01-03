@@ -1,17 +1,5 @@
----
-layout:     post
-title:      "Java 运行时数据区域"
-categories: 深入理解Java虚拟机
-author: luyao
----
-
-* content
-{:toc}
 
 Java 虚拟机运行时的数据区域的简单介绍。
-
-
-
 
 # Java 运行时数据区域
 

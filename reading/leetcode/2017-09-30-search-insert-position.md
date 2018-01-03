@@ -1,15 +1,3 @@
----
-layout: post
-title: "LeetCode - Search Insert Position"
-author: luyao
-categories: LeetCode
-tags: Array Easy
-excerpt: ""
-mathjax: true
----
-
-* content
-{:toc}
 
 ## Question
 
